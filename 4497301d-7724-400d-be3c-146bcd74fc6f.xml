@@ -1,11 +1,11 @@
 <joblist>
   <job>
     <defaultTab>nodes</defaultTab>
-    <description></description>
+    <description>This is a test job</description>
     <executionEnabled>true</executionEnabled>
     <id>4497301d-7724-400d-be3c-146bcd74fc6f</id>
     <loglevel>INFO</loglevel>
-    <name>Test Command</name>
+    <name>Versioned Controlled Job</name>
     <nodeFilterEditable>false</nodeFilterEditable>
     <plugins />
     <scheduleEnabled>true</scheduleEnabled>
